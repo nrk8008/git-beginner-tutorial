@@ -1,0 +1,20 @@
+my name is rahul.
+
+commands learned till now:
+- git init
+- git commit 
+- git status
+- git log
+- git add
+- git diff
+- git branch 
+- git checkout
+- git init
+- git rebase
+- git merge
+
+I am writing this line in branch main.
+
+I am making this change as a different developer working directly on code written at Github
+
+I am testing the fork and pull requests
